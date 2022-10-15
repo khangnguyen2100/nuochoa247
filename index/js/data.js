@@ -1,23 +1,23 @@
 const products = [
   {
     "id": 1,
-    "name": "Dior J’adore Parfum d’Eau",
+    "name": "J'ADORE EAU DE PARFUM INFINISSIME",
     "image": "https://mfparis.vn/wp-content/uploads/2022/09/nuoc-hoa-nu-dior-j-adore-parfum-d-eau-100ml-moi-nhat-2022.jpg",
     "price": 3800000,
     type: 'sale'
   },
   {
     "id": 2,
-    "name": "Jean Paul Gaultier Scandal Le Parfum",
-    "image": "https://mfparis.vn/wp-content/uploads/2022/09/nuoc-hoa-jean-paul-gaultier-scandal-le-parfum.jpg",
-    "price": 3200000,
+    "name": "SAUVAGE ELIXIR",
+    "image": "https://mfparis.vn/wp-content/uploads/2021/12/dior-sauvage-elixir-edp-60ml.jpg",
+    "price": 3220000,
     type: 'sale'
   },
   {
     "id": 3,
-    "name": "Jean Paul Gaultier La Belle Fleur Terrible",
+    "name": "Jean Paul Gaultier Le Beau EDT 125ml",
     "image": "https://mfparis.vn/wp-content/uploads/2022/09/jean-paul-gaultier-la-belle-fleur-terrible.jpg",
-    "price": 3200000,
+    "price": 2190000,
     type: 'sale'
   },
   {

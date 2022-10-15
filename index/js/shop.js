@@ -6,8 +6,8 @@ const formatPrice = (price) => {
 const htmls = data.map((product, i) => {
   return `
   <div class="col-lg-4 col-md-6 col-sm-6">
-  <div class="product__item"> 
-      <div class="product__item__pic set-bg" data-setbg="${product.image}" style='background-image: url(${product.image})' >
+  <div class="product__item">
+      <div class="product__item__pic set-bg" onclick="window.location.replace('./${i+1}.html')" data-setbg="${product.image}" style='background-image: url(${product.image})' >
           <ul class="product__hover">
               <li><a href="#"><img src="img/icon/heart.png" alt=""></a></li>
               <li><a href="#"><img src="img/icon/compare.png" alt=""> <span>Compare</span></a>
